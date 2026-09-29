@@ -2,3 +2,5 @@ test case1
 
 test case2
 info about test case2
+
+test case3
